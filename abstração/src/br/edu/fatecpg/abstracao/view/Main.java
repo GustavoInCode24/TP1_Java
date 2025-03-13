@@ -13,6 +13,12 @@ import br.edu.fatecpg.abstracao.model.IdadeBronze;
 import br.edu.fatecpg.abstracao.model.PiramidesEgito;
 import br.edu.fatecpg.abstracao.model.ChefCozinha;
 import br.edu.fatecpg.abstracao.model.Galaxia;
+import br.edu.fatecpg.abstracao.model.ConservacaoEnergia;
+import br.edu.fatecpg.abstracao.model.Escultura;
+import br.edu.fatecpg.abstracao.model.Monitor;
+import br.edu.fatecpg.abstracao.model.Leao;
+import br.edu.fatecpg.abstracao.model.Moeda;
+import br.edu.fatecpg.abstracao.model.Pintor;
 public class Main {
 
 	public static void main(String[] args) {
@@ -87,6 +93,47 @@ public class Main {
         Galaxia novaGalaxia = new Galaxia ("sistema Solar","Espiral",1000);
         
         novaGalaxia.expandir();
+
+
+
+		 //Conservação da Energia
+        
+        ConservacaoEnergia tipoConservacaoEnergia = new ConservacaoEnergia ("Economia","Solar","Fisica");
+        
+        tipoConservacaoEnergia.calcular();
+        
+        //Escultura
+        
+        Escultura tipoEscultura = new Escultura ("Rubrica","Papel Mache","Colorido");
+        
+        tipoEscultura.decorar();
+        
+        //Monitor
+        
+        Monitor meuMonitor = new Monitor ("T350","Sansumg",750);
+        
+        meuMonitor.ligar();
+        
+        //Leao
+        
+        Leao meuLeao= new Leao ("Scar","Carnivoro","Macho alfa");
+        
+        meuLeao.reproduzir();
+        
+        //Moeda
+        
+        Moeda minhaMoeda = new Moeda ("Moeda","varias",0.25);
+        
+        minhaMoeda.armazenar();
+        
+        //Pintor
+        
+        Pintor novoPintor = new Pintor ("Piccasso","Papel Mache","Explorar");
+        
+        novoPintor.criar();
+		
 	}
+
+	
 
 }
