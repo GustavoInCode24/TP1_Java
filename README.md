@@ -1,35 +1,36 @@
-# TP1_Java 
+# TP1_Java
 
-Repositório contendo o primeiro trabalho prático da disciplina de Java, desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas.
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 📋 Descrição do Projeto
+**TP1_Java** é um repositório dedicado ao aprendizado dos fundamentos da linguagem Java. Este projeto documenta minha jornada nos primeiros passos do desenvolvimento com Java, abordando desde a configuração do ambiente até conceitos básicos da programação orientada a objetos.
 
-Sistema de gerenciamento desenvolvido em Java que demonstra os conceitos fundamentais da programação orientada a objetos, incluindo:
+## 🚀 Tecnologias Utilizadas
 
-- Implementação de classes e objetos
-- Utilização de herança e polimorfismo
-- Manipulação de coleções e estruturas de dados
-- Tratamento de exceções
-- Interface com o usuário via console
+- **Java** – Linguagem principal utilizada para o desenvolvimento dos exercícios e projetos.
+- **IDE** – Ambiente de desenvolvimento integrado utilizado para codificação e execução dos programas.
 
-## 🛠️ Tecnologias Utilizadas
+## 📂 Estrutura do Repositório
 
-- Java
-- Eclipse IDE
-- Git
-- GitHub
-## 🚀 Funcionalidades
+O repositório contém diversos diretórios e arquivos Java, incluindo:
 
-- Cadastro de entidades
-- Consulta e listagem de dados
-- Atualização de registros
-- Exclusão de elementos
-- Validação de dados de entrada
-- Persistência em arquivos
+- **Introdução_Java** – Exercícios iniciais para familiarização com a linguagem.
+- **AtendimentoSUS** – Simulação de um sistema de atendimento médico.
+- **Ex_Matriz** – Exemplos de manipulação de matrizes.
+- **Heranca** – Demonstração do conceito de herança em Java.
+- **LojaJava** – Projeto de uma aplicação de loja utilizando conceitos de Java.
+- **Polimorfismo** – Exemplos de polimorfismo em Java.
+- **Abstracao** – Demonstração do conceito de abstração em Java.
+- **Encapsulamento** – Exemplos de encapsulamento em Java.
 
-## 👨‍💻 Desenvolvido por
+## 📌 Objetivo
 
-**Gustavo Lemos de Oliveira**
+O objetivo deste repositório é documentar e compartilhar os aprendizados adquiridos durante o processo de aprendizado da linguagem Java, facilitando o acompanhamento da evolução do conhecimento e servindo como referência para futuros projetos.
 
-[![GitHub](https://img.shields.io/badge/GitHub-GustavoInCode24-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoInCode24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Lemos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lemos-de-oliveira/)
+## 👤 Autor
+
+- **Gustavo InCode24** – Desenvolvedor e entusiasta de Java.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
