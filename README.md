@@ -1,7 +1,7 @@
 # TP1_Java
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 **TP1_Java** é um repositório dedicado ao aprendizado dos fundamentos da linguagem Java. Este projeto documenta minha jornada nos primeiros passos do desenvolvimento com Java, abordando desde a configuração do ambiente até conceitos básicos da programação orientada a objetos.
 
@@ -31,6 +31,4 @@ O objetivo deste repositório é documentar e compartilhar os aprendizados adqui
 
 - **Gustavo InCode24** – Desenvolvedor e entusiasta de Java.
 
-## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
