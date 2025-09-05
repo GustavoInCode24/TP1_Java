@@ -1,4 +1,4 @@
-# TP1_Java - Sistema de Gerenciamento em Java
+# TP1_Java 
 
 Repositório contendo o primeiro trabalho prático da disciplina de Java, desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas.
 
